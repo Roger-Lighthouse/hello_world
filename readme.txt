@@ -1,4 +1,4 @@
-readme.txt
+git checkoutreadme.txt
 
 This is a test of git
 
@@ -13,3 +13,5 @@ Whyyyy
 Natalee
 
 On Nut Branch
+
+Adding a new feature
